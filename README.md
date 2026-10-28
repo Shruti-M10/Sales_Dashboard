@@ -53,7 +53,7 @@ Used line charts to show change over time, such as:
 1. Monthly sales trend
 
 # Pie Charts
-Usde pie charts 
+Used pie charts 
 1. Sales contribution by ship mode
 
  
